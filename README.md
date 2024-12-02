@@ -1,2 +1,3 @@
 Oie!
-Testes da aula de github
+Testes da aula de github.
+Treinando...
